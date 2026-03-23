@@ -19,26 +19,31 @@ Reporting: PowerPoint (PPT)
 1️⃣ Data Loading
 -Loaded the dataset using Python (Pandas).
 -Connected to SQL databases to fetch structured data.
+
 2️⃣ Data Cleaning & Preprocessing
 -Handled missing values.
 -Removed duplicates.
 -Corrected data types.
 -Performed feature formatting and normalization where required.
+
 3️⃣ Exploratory Data Analysis (EDA)
 -Statistical summary of data.
 -Trend and pattern identification.
 -Visual analysis using charts and graphs.
+
 4️⃣ SQL Queries
 -Wrote SQL queries for:
 -Filtering and aggregations
 -Joins across multiple tables
 -Business-level insights extraction
+
 5️⃣ Power BI Dashboard
 -Built an interactive dashboard with:
 -KPIs
 -Charts and slicers
 -Filters for better decision-making
 -Focused on clarity, usability, and insights.
+
 6️⃣ Reporting (PPT)
 -Created a professional PowerPoint report.
 -Included:
