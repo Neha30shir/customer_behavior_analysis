@@ -16,6 +16,7 @@ Visualization & Dashboard: Power BI
 Reporting: PowerPoint (PPT)
 
 🔄 Project Workflow
+
 1️⃣ Data Loading
 -Loaded the dataset using Python (Pandas).
 -Connected to SQL databases to fetch structured data.
